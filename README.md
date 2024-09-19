@@ -25,10 +25,13 @@ A simple news application built using the [News API](https://newsapi.org/) that 
 ### Detailed News Screen
 <img src="./Screenshots/DetailedScreen .jpg" alt="Detailed News Screen" width="300"/>
 
+## Demo
 
+Watch the demo of the News App on YouTube: [Demo Video](https://youtu.be/9ryVBNBCYQc?si=NIbdy3LtWPgXl4_o)
 
+## APK
 
-
+Download the APK file for the News App: [Download APK](https://drive.google.com/file/d/1NdD1cFeUFLEXJ_m24JEAmuiJHMkZxdlz/view?usp=sharing)
 
 ## Tech Stack
 
