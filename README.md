@@ -19,7 +19,9 @@ A simple news application built using the [News API](https://newsapi.org/) that 
 ### Breaking News Screen
 <img src="./Screenshots/BreakingNews.jpg" alt="Breaking News Screen" width="300"/>
 ### Saved News Screen
-<img src="./Screenshots/SaveNews.jpg" alt="Breaking News Screen" width="300"/>
+<img src="./Screenshots/SaveNews.jpg" alt="Saved News Screen" width="300"/>
+### Detailed News Screen
+<img src="./Screenshots/DetailedScreen.jpg" alt="Detailed News Screen" width="300"/>
 
 
 
