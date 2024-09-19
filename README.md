@@ -16,7 +16,11 @@ A simple news application built using the [News API](https://newsapi.org/) that 
   
 ## Screenshots
 
-(Add screenshots of the app here)
+### Breaking News Screen
+![Breaking News Screen](./Screenshots/BreakingNews)
+
+
+
 
 ## Tech Stack
 
