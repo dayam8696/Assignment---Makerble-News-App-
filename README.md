@@ -17,7 +17,7 @@ A simple news application built using the [News API](https://newsapi.org/) that 
 ## Screenshots
 
 ### Breaking News Screen
-![Breaking News Screen](./Screenshots/BreakingNews)
+![Breaking News Screen](./Screenshots/BreakingNews.jpg)
 
 
 
